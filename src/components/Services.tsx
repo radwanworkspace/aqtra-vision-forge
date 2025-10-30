@@ -44,9 +44,9 @@ const services = [
   },
   {
     icon: Network,
-    title: 'Network & IT',
+    title: 'Network & Security',
     description: 'Modern IT infrastructure solutions',
-    items: ['Structured Cabling', 'Wi-Fi', 'CCTV', 'Access Control', 'Data Rack Setup'],
+    items: ['Structured Cabling', 'Wi-Fi', 'CCTV','PAVA Public Addres and Voice Alarm', 'Access Control', 'Data Rack Setup'],
     color: 'text-purple-500',
     bgColor: 'bg-purple-50',
   },
